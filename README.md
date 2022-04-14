@@ -5,7 +5,7 @@
 This is a paypal clone repository. The frontend of the PayPal website was built using HTML, CSS, and javaScript. This was a great little project i enjoyed working on.🙂
 
 To view the website, click on the link. <br>
-[CLICK ME 😄](https://paypalcloneproject.netlify.app) 
+[click me 😄](https://paypalcloneproject.netlify.app) 
 
 
 ## screenshot
